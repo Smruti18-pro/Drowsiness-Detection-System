@@ -1,4 +1,3 @@
-# Drowsiness-Detection-System
 # Drowsiness Detection and Alert System
 
 ## Project Overview
